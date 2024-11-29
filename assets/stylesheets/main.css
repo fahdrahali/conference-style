@@ -125,3 +125,31 @@ h1, h3, h4, h5, p {
   .group {
 	clear: both;
   }
+
+  /*
+  ========================================
+  Primary header
+  ========================================
+*/
+
+.logo {
+	float: left;
+	padding: 40px 0 22px 0;
+	border-top: 4px solid #648880;
+	border: 1px solid grey;
+  }
+
+
+   /*
+  ========================================
+  Primary footer
+  ========================================
+*/
+
+.primary-footer small {
+	float: left;
+}
+
+.primary-footer {
+	padding: 44px 0;
+}
